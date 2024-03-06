@@ -2,6 +2,9 @@
 
 Este é o projeto que desenvolvi durante meu curso no SENAI, onde aprendi os fundamentos de HTML, CSS e utilizei o Figma para design. O projeto consiste em um portfólio de UX/UI com um design moderno.
 
+![image](https://github.com/BrennonMeireles/lobo-website/assets/141636246/a4a7101b-483b-44ca-be95-6873ae339d79)
+
+
 ## Sobre o Projeto
 
 O projeto de portfólio de UX/UI é uma representação visual do meu trabalho e habilidades como designer de interface do usuário (UI) e experiência do usuário (UX). Ele foi criado com o objetivo de demonstrar minha capacidade de criar experiências digitais atraentes e funcionais para os usuários.
